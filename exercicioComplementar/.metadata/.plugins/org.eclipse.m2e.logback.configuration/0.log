@@ -1,0 +1,537 @@
+2020-10-07 14:24:37,193 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-07 14:28:14,770 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.farmacia:milEUmMedicamnetos:0.0.1-SNAPSHOT @ C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\pom.xml.
+2020-10-07 14:28:16,438 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /milEUmMedicamnetos/src/main/java
+2020-10-07 14:28:16,439 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /milEUmMedicamnetos/src/main/resources
+2020-10-07 14:28:16,447 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /milEUmMedicamnetos/src/main/resources
+2020-10-07 14:28:16,451 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /milEUmMedicamnetos/src/test/java
+2020-10-07 14:28:18,072 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-10-07 14:28:19,355 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:28:19,363 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:28:19,380 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:28:19,384 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:28:19,384 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:34:18,573 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:34:18,597 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:34:18,599 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:34:18,601 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:34:18,601 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:37:59,325 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:37:59,326 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:37:59,327 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:37:59,329 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:37:59,329 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:38:33,670 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:38:33,671 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:38:33,672 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:38:33,674 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:38:33,674 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:39:10,569 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:39:10,570 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:39:10,572 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:39:10,573 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:39:10,573 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:40:54,675 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:40:54,676 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:40:54,677 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:40:54,678 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:40:54,678 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:43:48,111 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:43:48,112 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:43:48,114 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:43:48,116 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:43:48,117 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:43:56,428 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:43:56,429 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:43:56,430 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:43:56,433 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:43:56,433 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:44:06,659 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:44:06,660 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:44:06,662 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:44:06,663 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:44:06,663 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 14:57:11,661 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:57:11,662 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 14:57:11,664 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 14:57:11,665 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 14:57:11,665 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:01:34,997 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:01:34,998 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:01:34,999 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:01:35,000 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:01:35,000 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:01:57,754 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:01:57,756 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:01:57,757 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:01:57,758 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:01:57,759 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:04:13,332 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:04:13,333 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:04:13,335 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:04:13,337 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:04:13,337 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:05:06,559 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:06,560 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:05:06,561 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:05:06,562 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:06,563 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:05:14,395 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:14,396 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:05:14,397 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:05:14,399 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:14,399 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:05:27,937 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:27,938 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:05:27,940 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:05:27,942 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:05:27,942 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:07:15,025 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:07:15,026 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:07:15,027 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:07:15,028 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:07:15,028 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:08:40,806 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:08:40,806 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:08:40,808 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:08:40,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:08:40,810 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:12:30,720 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:12:30,722 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:12:30,724 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:12:30,725 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:12:30,725 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:14:52,421 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:14:52,422 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:14:52,424 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:14:52,426 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:14:52,426 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:15:29,608 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:15:29,608 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:15:29,609 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:15:29,610 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:15:29,611 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:16:38,285 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:16:38,286 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:16:38,287 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:16:38,288 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:16:38,289 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:17:02,799 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:17:02,800 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:17:02,801 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:17:02,802 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:17:02,802 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:17:26,018 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:17:26,020 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:17:26,022 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:17:26,023 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:17:26,023 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:18:59,055 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:18:59,056 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:18:59,058 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:18:59,059 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:18:59,059 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:20:14,515 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:20:14,516 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:20:14,518 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:20:14,519 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:20:14,519 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:22:22,093 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:22:22,095 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:22:22,097 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:22:22,098 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:22:22,098 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:22:42,096 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:22:42,097 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:22:42,098 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:22:42,099 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:22:42,100 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:23:01,151 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:01,152 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:23:01,154 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:23:01,155 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:01,155 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:23:28,923 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:28,924 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:23:28,925 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:23:28,926 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:28,927 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:23:44,839 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:44,840 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:23:44,842 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:23:44,843 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:23:44,843 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:24:45,176 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:24:45,176 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:24:45,179 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:24:45,181 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:24:45,181 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:27:40,019 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:27:40,020 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:27:40,021 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:27:40,022 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:27:40,022 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:28:04,206 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:04,207 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:28:04,208 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:28:04,209 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:04,210 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:28:11,979 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:11,980 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:28:11,981 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:28:11,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:11,982 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:28:31,952 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:31,953 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:28:31,954 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:28:31,955 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:28:31,955 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:29:38,645 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:29:38,646 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:29:38,647 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:29:38,648 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:29:38,649 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:29:47,754 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:29:47,755 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:29:47,756 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:29:47,757 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:29:47,757 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:30:07,131 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:30:07,132 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:30:07,133 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:30:07,134 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:30:07,134 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:31:16,973 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:16,973 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:31:16,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:31:16,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:16,975 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:31:33,849 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:33,850 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:31:33,852 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:31:33,853 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:33,854 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:31:44,897 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:44,898 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:31:44,899 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:31:44,900 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:31:44,900 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:34:35,720 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:34:35,721 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:34:35,723 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:34:35,724 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:34:35,724 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:34:43,244 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:34:43,245 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:34:43,246 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:34:43,247 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:34:43,247 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:35:03,432 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:03,433 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:35:03,434 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:35:03,435 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:03,435 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:35:08,517 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:08,518 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:35:08,520 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:35:08,520 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:08,521 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:35:36,112 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:36,112 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:35:36,113 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:35:36,114 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:35:36,114 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:41:59,428 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:41:59,429 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:41:59,431 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:41:59,431 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:41:59,431 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:46:36,540 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:46:36,541 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:46:36,543 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:46:36,544 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:46:36,545 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:47:26,887 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:47:26,888 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:47:26,889 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:47:26,890 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:47:26,891 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:47:48,419 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:47:48,420 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:47:48,421 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:47:48,422 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:47:48,422 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:51:48,648 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:51:48,649 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:51:48,650 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:51:48,652 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:51:48,652 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:52:02,973 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:52:02,974 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:52:02,976 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:52:02,977 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:52:02,977 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:52:32,929 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:52:32,930 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:52:32,931 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:52:32,932 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:52:32,932 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:53:27,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:53:27,359 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:53:27,360 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:53:27,362 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:53:27,362 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:54:57,015 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:54:57,016 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:54:57,018 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:54:57,019 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:54:57,019 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:55:59,386 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:55:59,387 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:55:59,389 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:55:59,390 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:55:59,390 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:56:12,586 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:56:12,587 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:56:12,588 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:56:12,589 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:56:12,589 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 15:57:13,997 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:57:13,998 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 15:57:14,000 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 15:57:14,002 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 15:57:14,002 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:03:12,425 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:03:12,426 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:03:12,427 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:03:12,428 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:03:12,428 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:03:28,429 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:03:28,430 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:03:28,431 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:03:28,432 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:03:28,432 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:05:02,158 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:05:02,159 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:05:02,160 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:05:02,161 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:05:02,161 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:06:09,126 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:06:09,127 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:06:09,129 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:06:09,130 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:06:09,130 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:06:43,453 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:06:43,454 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:06:43,456 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:06:43,458 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:06:43,458 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:07:31,048 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:07:31,049 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:07:31,050 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:07:31,051 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:07:31,051 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:07:53,496 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:07:53,497 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:07:53,498 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:07:53,499 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:07:53,500 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:10:28,977 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:10:28,978 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:10:28,979 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:10:28,980 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:10:28,980 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:10:38,733 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:10:38,734 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:10:38,735 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:10:38,736 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:10:38,736 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:15:48,790 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:15:48,792 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:15:48,793 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:15:48,794 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:15:48,794 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:15:54,831 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:15:54,832 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:15:54,833 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:15:54,834 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:15:54,834 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:17:08,093 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:08,094 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:17:08,096 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:17:08,097 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:08,097 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:17:40,957 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:40,958 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:17:40,960 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:17:40,960 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:40,960 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:17:59,388 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:59,389 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:17:59,390 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:17:59,391 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:17:59,391 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:19:04,289 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:19:04,290 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:19:04,291 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:19:04,292 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:19:04,292 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:19:33,406 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:19:33,407 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:19:33,409 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:19:33,410 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:19:33,410 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:22:01,379 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:01,380 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:22:01,382 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:22:01,383 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:01,383 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:22:09,291 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:09,292 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:22:09,293 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:22:09,294 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:09,294 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:22:59,507 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:59,507 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:22:59,508 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:22:59,510 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:22:59,510 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:23:41,771 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:23:41,772 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:23:41,773 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:23:41,774 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:23:41,774 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:24:58,090 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:24:58,092 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:24:58,093 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:24:58,094 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:24:58,094 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 16:25:14,726 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:25:14,727 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 16:25:14,729 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 16:25:14,730 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 16:25:14,730 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:04:37,078 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:04:37,079 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:04:37,080 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:04:37,081 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:04:37,081 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:08:50,363 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:08:50,364 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:08:50,365 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:08:50,367 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:08:50,367 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:13:11,008 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:11,010 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:13:11,011 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:13:11,012 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:11,012 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:13:13,594 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:13,595 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:13:13,596 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:13:13,597 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:13,597 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:13:24,820 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:24,821 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:13:24,822 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:13:24,823 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:13:24,823 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:14:55,166 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:14:55,167 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:14:55,168 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:14:55,169 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:14:55,169 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:15:05,083 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:15:05,084 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:15:05,085 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:15:05,085 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:15:05,086 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:16:07,465 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:16:07,466 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:16:07,468 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:16:07,469 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:16:07,469 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:16:28,530 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:16:28,531 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:16:28,533 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:16:28,534 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:16:28,534 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:17:11,164 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:11,165 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:17:11,166 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:17:11,167 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:11,167 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:17:25,985 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:25,986 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:17:25,987 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:17:25,988 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:25,989 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:17:58,913 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:58,915 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:17:58,916 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:17:58,917 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:17:58,917 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:23:09,913 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:23:09,916 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:23:09,917 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:23:09,918 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:23:09,919 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:37:19,625 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:37:19,626 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:37:19,627 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:37:19,628 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:37:19,628 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:37:56,462 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:37:56,462 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:37:56,464 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:37:56,497 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:37:56,497 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:44:30,616 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:44:30,617 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:44:30,618 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:44:30,619 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:44:30,619 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:47:18,486 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:47:18,487 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:47:18,488 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:47:18,489 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:47:18,489 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:49:03,913 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:03,914 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:49:03,915 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:49:03,916 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:03,916 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:49:27,753 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:27,753 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:49:27,755 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:49:27,756 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:27,756 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:49:49,396 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:49,397 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:49:49,398 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:49:49,399 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:49:49,399 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:50:58,286 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:50:58,301 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:50:58,302 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:50:58,314 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:50:58,314 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:52:29,265 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:52:29,266 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:52:29,296 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:52:29,297 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:52:29,297 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:53:09,548 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:53:09,549 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:53:09,550 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:53:09,551 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:53:09,551 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:54:07,217 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:54:07,218 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:54:07,219 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:54:07,220 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:54:07,220 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources
+2020-10-07 17:54:36,145 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:54:36,146 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-07 17:54:36,147 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-07 17:54:36,148 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-07 17:54:36,148 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\ONG Generations\2º Módulo\SpringBoot\exercicioComplementar\milEUmMedicamnetos\src\test\resources

@@ -1,0 +1,9 @@
+package com.farmacia.milEUmMedicamnetos.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.farmacia.milEUmMedicamnetos.model.Model;
+
+public interface CategoriaRepository extends JpaRepository<Model, Long> {
+	public List<Postagem> findAllByTituloContainingIgnoreCase (String nome);
+}

@@ -1,0 +1,87 @@
+package com.farmacia.milEUmMedicamnetos.model;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
+@Entity
+@Table(name="tb_categroria")
+public class Model {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long id;
+	
+	@NotNull
+	@Size(max=500)
+	private String advertencia;
+	
+	@NotNull
+	@Size(max=500)	
+	private String fornecedor;
+	
+	@NotNull
+	@Size(max=500)	
+	private String marca;
+	
+	@NotNull	
+	private int garantia;
+	
+	@NotNull
+	@Size(max=500)
+	private String nome;
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getAdvertencia() {
+		return advertencia;
+	}
+
+	public void setAdvertencia(String advertencia) {
+		this.advertencia = advertencia;
+	}
+
+	public String getFornecedor() {
+		return fornecedor;
+	}
+
+	public void setFornecedor(String fornecedor) {
+		this.fornecedor = fornecedor;
+	}
+
+	public String getMarca() {
+		return marca;
+	}
+
+	public void setMarca(String marca) {
+		this.marca = marca;
+	}
+
+	public int getGarantia() {
+		return garantia;
+	}
+
+	public void setGarantia(int garantia) {
+		this.garantia = garantia;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	
+	
+}

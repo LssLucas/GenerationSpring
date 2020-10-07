@@ -1,0 +1,9 @@
+package com.farmacia.milEUmMedicamnetos.repository;
+
+import java.util.List;
+
+import com.farmacia.milEUmMedicamnetos.model.Categoria;
+
+public interface ProdutoRepository extends JpaRepository<Produto, Long> {
+	public List<Categoria> findAllByNomeCategoriaContainingIgnoreCase (String nomeCategoria);
+}
