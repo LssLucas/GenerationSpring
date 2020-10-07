@@ -1,0 +1,11 @@
+package com.vaiDarBom.vaiDarBomPlataformaDeEstudos.model;
+
+public class Model {
+	/*
+	 Id
+	 Assunto
+	 Nivel de ensino
+	 Disciplina materia
+	*/
+
+}
