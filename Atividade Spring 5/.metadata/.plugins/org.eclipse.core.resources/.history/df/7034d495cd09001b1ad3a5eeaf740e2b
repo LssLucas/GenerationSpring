@@ -1,0 +1,6 @@
+package com.minhaLojaGames.toPlayQueer.repository;
+
+
+public interface UsuarioRepository {
+
+}

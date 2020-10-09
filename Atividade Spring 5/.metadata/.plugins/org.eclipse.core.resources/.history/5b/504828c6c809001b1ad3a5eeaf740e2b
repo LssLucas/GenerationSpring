@@ -1,0 +1,6 @@
+package com.minhaLojaGames.toPlayQueer.controller;
+
+@RequestControllerAdvice
+public class ProdtuoController {
+
+}

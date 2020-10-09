@@ -1,0 +1,5 @@
+package com.minhaLojaGames.toPlayQueer.model;
+
+public class Usuario {
+
+}

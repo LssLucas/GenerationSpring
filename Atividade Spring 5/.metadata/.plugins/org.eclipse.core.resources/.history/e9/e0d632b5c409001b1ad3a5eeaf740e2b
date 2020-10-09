@@ -1,0 +1,19 @@
+package com.minhaLojaGames.toPlayQueer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+
+//Model -- craição
+//repository -- manipulação das tabelas
+//controller -- porta de acesso
+
+@SpringBootApplication
+public class ToPlayQueerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ToPlayQueerApplication.class, args);
+	}
+
+}
