@@ -1,0 +1,13 @@
+package org.generation.blogPessoal.model;
+
+public class UsuarioLogin {
+	
+	private String nome;
+	
+	private String senha;
+	
+	private String token;
+	
+	private String nome;
+	
+}

@@ -1,0 +1,15 @@
+package com.vaiDarBom.vaiDarBomPlataformaDeEstudos.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(nome="model")
+public class Model {
+	/*
+	 Id
+	 Assunto
+	 Nivel de ensino
+	 Disciplina materia
+	*/	
+}
