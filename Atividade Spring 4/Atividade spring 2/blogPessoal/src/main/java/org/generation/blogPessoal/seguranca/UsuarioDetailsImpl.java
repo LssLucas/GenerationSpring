@@ -1,6 +1,7 @@
 package org.generation.blogPessoal.seguranca;
 
 import java.util.Collection;
+import java.util.List;
 
 import org.generation.blogPessoal.model.Usuario;
 import org.springframework.security.core.GrantedAuthority;
@@ -13,6 +14,8 @@ public class UsuarioDetailsImpl implements UserDetails{
 	private String userName;
 	private String password;
 	
+	private List<GrantedAuthority> authorities;
+	
 	public UsuarioDetailsImpl(Usuario user) {
 		this.userName = user.getNome();
 		this.password = user.getSenha();
@@ -22,7 +25,7 @@ public class UsuarioDetailsImpl implements UserDetails{
 	
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
-		return null;
+		return authorities;
 	}
 
 	@Override
